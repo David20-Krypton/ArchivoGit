@@ -1,0 +1,43 @@
+
+
+#cajaA{
+    position:relative;
+    background-color:rgb(27, 27, 138);
+    left:620px;
+    top:-500px;
+    width:250px;
+    height:100px;
+    z-index:8;
+    }
+
+#cajaB{
+        position:relative;
+        background-color:rgb(189, 189, 197);
+        left:620px;
+        top:-550px;
+        width:250px;
+        height:100px;
+        z-index:8;
+        }
+
+#cajaC{
+            position:relative;
+            background-color:rgb(125, 125, 129);
+            left:620px;
+            top:-550px;
+            width:250px;
+            height:100px;
+            z-index:8;
+            }
+#cajaD{
+            position:relative;
+            background-color:rgb(189, 189, 197);
+            left:620px;
+            top:-450px;
+            width:250px;
+            height:100px;
+            z-index:8;
+            }
+#cajaD:hover{
+    background: darkgrey;
+}
